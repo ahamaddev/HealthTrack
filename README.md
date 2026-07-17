@@ -158,4 +158,4 @@ This project is for educational purposes. Feel free to use and modify.
 
 ---
 
-Built with ❤️ for better health awareness.
+Built for better health awareness.
